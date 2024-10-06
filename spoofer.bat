@@ -116,7 +116,6 @@ del /s /q /f %LocalAppData%\FiveM\FiveM.app\discord.dll
 cls
 del /s /q /f %LocalAppData%\FiveM\FiveM.app\crashes\*.*
 cls
-RENAME %userprofile%\AppData\Roaming\discord\0.0.309\modules\discord_rpc moonSpoofer
 rmdir /s /q %LocalAppData%\FiveM\FiveM.app\crashes
 del /s /q /f %LocalAppData%\FiveM\FiveM.app\caches.XML
 del /s /q /f %LocalAppData%\FiveM\FiveM.app\adhesive.dll
